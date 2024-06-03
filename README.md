@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, Je m'appel Samy MEDDAD</h1>
+<h1 align="center">Hi 👋</h1>
+<h2
 <h3 align="center">Je suis un développeur web</h3>
 <h4 align="center"> Ayant déjà complété deux années d'études en physique. J'ai décidé de changer de dimension professionnelle car le monde de l'informatique, plus précisément de la cybersécurité, m'intéressé énormément. cependant au cours de ma formation, j'ai étais pris de passion par le domaine du développement web et en discutant autour de moi j'ai décidé devenir développeur web.</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samy-meddad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samy-meddad-b83244294/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samy-meddad/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/samy-meddad/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
