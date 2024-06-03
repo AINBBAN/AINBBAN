@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">Je suis un développeur web</h3>
-<h4 align="center"> Ayant déjà complété deux années d'études en physique. J'ai décidé de changer de dimension professionnelle car le monde de l'informatique, plus précisément de la cybersécurité, m'intéressé énormément. cependant au cours de ma formation, j'ai étais pris de passion par le domaine du développement web et en discutant autour de moi j'ai décidé devenir développeur web.</h4>
+<h4 align="center"> Ayant déjà complété deux années d'études en physique. J'ai décidé de changer de dimension professionnelle car le monde de l'informatique, plus précisément de la cybersécurité, m'intéressé énormément. cependant au cours de ma formation, j'ai étais pris de passion par le domaine du développement web et en discutant autour de moi j'ai décidé devenir développeur web. J'ai appris a utilisé Visual Studio Code de manière autodidacte mais encore je me suis familiarisé a plusieurs langage tels que (Html, Css, JavaScript). 
+Je suis à votre disposition pour discuter de toute proposition.
+</h4>
 
 <h3 align="left">Contact :</h3>
 <p align="left">
