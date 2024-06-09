@@ -14,27 +14,26 @@ Mon objectif professionnel est de devenir un développeur web compétent et poly
 Je suis à votre disposition pour discuter de tout conseil que vous pourriez avoir à me donner, ou pour toute opportunité de formation et de collaboration. Je suis convaincu que ma passion pour le développement web et ma capacité à apprendre rapidement feront de moi un atout précieux pour toute équipe de développement.
 </h4>
 
-<h3 align="center">Contact :</h3>
+<h3 align="left">Contact :</h3>
 
 
-  
- <img align="center" [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samy-meddad/)>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samy-meddad/)
 
 
-<h3 align="center">Languages :</h3>
+<h3 align="left">Languages :</h3>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 align="center">Frameworks :</h3>
+<h3 align="left">Frameworks :</h3>
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3 align="center">Logiciel :</h3>
+<h3 align="left">Logiciel :</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
