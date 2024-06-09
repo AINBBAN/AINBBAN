@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <h3 align="center">Je suis un développeur web</h3>
-<h4 align="center"> Ayant complété deux années d'études en physique, j'ai décidé de changer de voie professionnelle pour me consacrer à une passion grandissante : le développement web.
+<h4 align="center"> Ayant complété deux années d'études en physique, j'ai décidé de changer de voie professionnelle pour me consacrer à une passion grandissante : le développement web.<br><br>
 
 Mon parcours académique en physique m'a permis de développer des compétences essentielles telles que la résolution de problèmes complexes, l'analyse critique et la rigueur scientifique. Ces qualités, je suis convaincu, sont parfaitement transférables et me seront d'une grande aide dans ma nouvelle carrière de développeur web.
 
