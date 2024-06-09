@@ -14,7 +14,7 @@ Mon objectif professionnel est de devenir un développeur web compétent et poly
 Je suis à votre disposition pour discuter de tout conseil que vous pourriez avoir à me donner, ou pour toute opportunité de formation et de collaboration. Je suis convaincu que ma passion pour le développement web et ma capacité à apprendre rapidement feront de moi un atout précieux pour toute équipe de développement.
 </h4>
 
-<h3 align="left">Contact :</h3>
+<h3 align="center">Contact :</h3>
 <p align="left">
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samy-meddad/)
