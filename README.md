@@ -15,9 +15,10 @@ Je suis à votre disposition pour discuter de tout conseil que vous pourriez avo
 </h4>
 
 <h3 align="center">Contact :</h3>
+
 <p align="center">
   
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samy-meddad/)
+ <img align="center" [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samy-meddad/)>
 </p>
 
 <h3 align="center">Languages :</h3>
