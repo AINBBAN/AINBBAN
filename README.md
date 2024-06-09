@@ -5,11 +5,11 @@
 
 Mon parcours académique en physique m'a permis de développer des compétences essentielles telles que la résolution de problèmes complexes, l'analyse critique et la rigueur scientifique. Ces qualités, je suis convaincu, sont parfaitement transférables et me seront d'une grande aide dans ma nouvelle carrière de développeur web.
 
-Autodidacte et passionné, j'ai appris à utiliser Visual Studio Code et me suis familiarisé avec les langages HTML, CSS et JavaScript. J'ai consacré de nombreuses heures à la création de projets personnels pour renforcer mes compétences techniques. Par exemple, j'ai développé un site web personnel où j'ai intégré diverses fonctionnalités interactives en utilisant JavaScript.
+Autodidacte et passionné, j'ai appris à utiliser Visual Studio Code et me suis familiarisé avec les langages HTML, CSS et JavaScript. J'ai consacré de nombreuses heures à la création de projets personnels pour renforcer mes compétences techniques. Par exemple, j'ai développé uniquement avec JavaScript une calculatrice mais aussi j'ai fais un dictionnaire utilisant une api.
 
-Pour approfondir mes connaissances, j'ai suivi plusieurs cours en ligne sur des plateformes telles que Codecademy et FreeCodeCamp. Ces formations m'ont permis de consolider mes bases et d'explorer des frameworks et bibliothèques modernes comme React.js et Node.js.
+Pour approfondir mes connaissances, j'ai suivi plusieurs cours en ligne sur des plateformes telles que OpenClassroom, Udemy et Codecademy. Ces formations m'ont permis de consolider mes bases et d'explorer des frameworks et bibliothèques modernes comme React.js et Node.js.
 
-Mon objectif professionnel est de devenir un développeur web compétent et polyvalent, capable de travailler sur des projets variés et innovants. Je suis également très motivé à l'idée d'apprendre continuellement et d'améliorer mes compétences, que ce soit à travers des formations supplémentaires, des projets personnels ou en intégrant une équipe de développement dynamique.
+Mon objectif professionnel est de devenir un développeur full stack compétent et polyvalent, capable de travailler sur des projets variés et innovants. Je suis également très motivé à l'idée d'apprendre continuellement et d'améliorer mes compétences, que ce soit à travers des formations supplémentaires, des projets personnels ou en intégrant une équipe de développement dynamique.
 
 Je suis à votre disposition pour discuter de tout conseil que vous pourriez avoir à me donner, ou pour toute opportunité de formation et de collaboration. Je suis convaincu que ma passion pour le développement web et ma capacité à apprendre rapidement feront de moi un atout précieux pour toute équipe de développement.
 </h4>
