@@ -13,7 +13,7 @@ Mon objectif professionnel est de devenir un développeur full stack compétent 
 
 Je suis à votre disposition pour discuter de tout conseil que vous pourriez avoir à me donner, ou pour toute opportunité de formation et de collaboration. Je suis convaincu que ma passion pour le développement web et ma capacité à apprendre rapidement feront de moi un atout précieux pour toute équipe de développement.
 </h4>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="Fenêtre définie"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
 
 ### Contact :
