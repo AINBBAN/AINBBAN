@@ -23,7 +23,7 @@ Je suis à votre disposition pour discuter de tout conseil que vous pourriez avo
 ### Languages :
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AINBBAN/Ndabloodwebsite)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/AINBBAN/Calculatrice-avec-boite-de-dialogue/tree/master/Nouveau%20dossier)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/AINBBAN/Jeu-de-combat)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/AINBBAN/Calculez-son-imc)
 
 ### Frameworks :
